@@ -335,16 +335,16 @@
     ]]></string>
 
     <!--&lt;!&ndash; Zaproszenie na kawę &ndash;&gt;-->
-    <!--<string name="buy_me_coffee">Postaw mi kawę</string>-->
-    <!--<string name="expresso_please">Espresso, proszę. Dzięki!</string>-->
+    <!--<string name="buy_me_coffee">Kup mi kawę</string>-->
+    <!--<string name="expresso_please">Espresso poproszę. Dzięki!</string>-->
     <!--<string name="thanks_for_coffe">Dzięki za kawę!</string>-->
-    <!--<string name="remove_coffee_message">Dotknij, aby ukryć ten komunikat</string>-->
-    <!--<string name="buy_coffee_to_unlock_themes">Kup więcej kawy, aby odblokować więcej motywów</string>-->
+    <!--<string name="remove_coffee_message">Stuknij, aby ukryć to ustawienie</string>-->
+    <!--<string name="buy_coffee_to_unlock_themes">Proszę, kup mi kawę, aby odblokować więcej motywów</string>-->
 
-    <!--<string name="error_setting_up_billing">Błąd podczas łączenia z Zakupami Google Play:\n%s</string>-->
+    <!--<string name="error_setting_up_billing">Nie można skonfigurować usługi rozliczeniowej Google Play:\n%s</string>-->
     <!--<string name="error_querying_inventory">Błąd podczas odczytywania koszyka.</string>-->
     <!--<string name="error_during_purchased">Wystąpił błąd podczas zakupu.</string>-->
-    <!--<string name="purchase_thanks">Dzięki za wsparcie!</string>-->
+    <!--<string name="purchase_thanks">Dziękuję za wsparcie!</string>-->
 
     <string name="play_on_kodi">Odtwórz w Kodi</string>
 
